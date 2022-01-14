@@ -1,0 +1,25 @@
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\Connect part 2.exe
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\Connect part 2.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\Connect part 2.runtimeconfig.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\Connect part 2.runtimeconfig.dev.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\Connect part 2.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\ref\Connect part 2.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\Connect part 2.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.csproj.GenerateResource.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\ref\Connect part 2.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.genruntimeconfig.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect_part_2.Homework.resources
+C:\Users\ilchu\OneDrive\Робочий стіл\Programing\ADO.NET\Connect part 2\Connect part 2\obj\Debug\net5.0-windows\Connect part 2.csproj.CopyComplete
